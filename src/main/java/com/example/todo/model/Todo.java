@@ -4,8 +4,8 @@ package com.example.todo.model;
 public class Todo{
     private int id;
     private String todo;
-	private String priority;
 	private String status;
+	private String priority;
 	
 	
     
